@@ -5,7 +5,8 @@
 
 BarberBot Distributed is an innovative, real-time distributed system designed for managing customer inquiries across multiple barber shops. This project leverages distributed computing principles to create a network of interconnected barber shops, allowing for seamless data sharing, load balancing, and fault tolerance.
 
-
+**GUI PREVIEW**
+![GUI Preview](GUI.gif)
 
 
 ## Distributed Architecture
