@@ -10,6 +10,10 @@ BarberBot Distributed is an innovative, real-time distributed system designed fo
 
 ![GUI Preview](GUI.gif)
 
+**AUTOMATED DETAILS CSV**
+
+![Dashboard Preview](Automated Details.png)
+
 
 ## Distributed Architecture
 
