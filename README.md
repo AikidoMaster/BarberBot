@@ -29,6 +29,7 @@ BarberBot offers a comprehensive solution with the following key features and te
    - Built a Tkinter-based GUI for easy customer data entry
    - Captures key information: name, phone, age, gender, email, and inquiry
    - Utilizes OpenPyXL for automated Excel/CSV file handling and real-time updates
+
 **GUI PREVIEW**
 
 ![GUI PREVIEW](GUI.gif)
