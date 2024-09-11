@@ -55,6 +55,8 @@ A centralized, real-time dashboard provides a holistic view of the entire distri
 **DASHBOARD PREVIEW**
 
 ![Dashboard Preview](Dashboard.gif)
+
+
 ## Technical Implementation
 
 - **Distributed Consensus**: Implements the Raft consensus algorithm to ensure consistency across all nodes in the distributed system.
