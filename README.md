@@ -54,7 +54,7 @@ A centralized, real-time dashboard provides a holistic view of the entire distri
 
 **DASHBOARD PREVIEW**
 
-![Dashboard Preview](Dashboard.gif)
+![Dashboard Preview](dashboard.gif)
 
 
 ## Technical Implementation
