@@ -6,6 +6,8 @@
 BarberBot Distributed is an innovative, real-time distributed system designed for managing customer inquiries across multiple barber shops. This project leverages distributed computing principles to create a network of interconnected barber shops, allowing for seamless data sharing, load balancing, and fault tolerance.
 
 **GUI PREVIEW**
+
+
 ![GUI Preview](GUI.gif)
 
 
@@ -49,6 +51,10 @@ The system performs distributed data analysis across all nodes, aggregating insi
 
 A centralized, real-time dashboard provides a holistic view of the entire distributed network, displaying aggregated data from all participating barber shops.
 
+
+**DASHBOARD PREVIEW**
+
+![Dashboard Preview](Dashboard.gif)
 ## Technical Implementation
 
 - **Distributed Consensus**: Implements the Raft consensus algorithm to ensure consistency across all nodes in the distributed system.
